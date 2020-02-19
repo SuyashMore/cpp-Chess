@@ -1,9 +1,8 @@
-# Chess_cpp
-Chess Prototype Made in C++ using SFML Graphics Library
+# Chess 
+A Chess Prototype Made in C++ using SFML Graphics Library
 
-To-Do-List:<br>
-#add Special Moves(Castling,Promotion) <br>
-#add CheckMate Mechanic<br>
-#add HUD <br>
-#add Timed Event/Clock<br>
-#add Transistion Animations<br>
+Build and Run with Microsoft Visual Studio 2017 
+
+## Sample Image
+
+![alt text](https://github.com/SuyashMore/cpp-Chess/blob/master/Sample.JPG)
